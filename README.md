@@ -1,6 +1,8 @@
 ### Hi there 👋 
 ### This is Biyang Guo!
 
+Homepage: [Beyond@SimpleAI](https://beyondguo.github.io/about/notes/my_CV.html)
+
 I'm a PhD student at [SUFE](https://www.sufe.edu.cn/). My research interests lie in NLP (Natural Language Processing) and DCAI (Data-Centric AI).
 
 Here are some research projects I'm in charge of:
